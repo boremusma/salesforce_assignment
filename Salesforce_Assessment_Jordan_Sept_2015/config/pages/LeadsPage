@@ -1,8 +1,0 @@
-pageHeader=//h1[@class='pageType'][text()='Leads']
-
-viewSelector=//select[@title='View:']
-viewSelectorGoBtn=//input[@title='Go!']
-emptyLeadsTable=//tbody//th[@class='noRowsHeader']
-
-addToCampaignBtn=//input[@title='Add to Campaign']
-activeNextPageBtn=//div[@class='bottomNav']//a[text()='Next']
