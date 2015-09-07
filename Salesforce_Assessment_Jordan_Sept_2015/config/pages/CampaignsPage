@@ -1,0 +1,10 @@
+pageHeader=//h1[text()='Campaign']
+
+campaignLookUpBtn=//a[@title='Campaign: Lookup (New Window)']
+addToCampaignBtn=//input[@value='Add to Campaign']
+doneBtn=//input[@title='Done']
+
+
+campaignScopeSelector=//select[@id='campaignScope']
+campaignScopeSearchTextField=//input[@placeholder='Search...']
+campaignScopeGoBtn=//input[@title='Go!']
